@@ -1,8 +1,3 @@
--- ============================================
--- PUNTO 6 — Consultas SQL con AWS Athena
--- Base de datos: calidad_aire_db
--- ============================================
-
 -- Pregunta 1 — Ciudad con mayor promedio de PM2.5
 SELECT 
     municipio,
