@@ -66,39 +66,40 @@ Visualizacion:
 
 ## Estructura del repositorio
 
+```text
 Proyecto2-BIGDATA/
 ├── README.md
-├── punto1/
+├── Punto 1/
 │   ├── README.md
 │   └── evidencias/
-├── punto2/
+├── Punto 2/
 │   ├── README.md
-│   ├── crear_tabla.sql
-│   ├── cargar_datos.sql
+│   ├── setup_rds.sql
 │   └── evidencias/
-├── punto3/
+├── Punto 3/
 │   ├── README.md
 │   ├── ingest.py
 │   └── evidencias/
-├── punto4/
+├── Punto 4/
 │   ├── README.md
 │   ├── glue_job.py
 │   └── evidencias/
-├── punto5/
+├── Punto 5/
 │   ├── README.md
 │   └── evidencias/
-├── punto6/
+├── Punto 6/
 │   ├── README.md
-│   ├── consultas.sql
+│   ├── consultas_athena.sql
 │   └── evidencias/
-├── punto7/
+├── Punto 7/
 │   ├── README.md
 │   ├── pyspark_analysis.py
 │   └── evidencias/
-└── punto8/
-├── README.md
-├── app.py
-└── evidencias/
+└── Punto 8/
+    ├── README.md
+    ├── app.py
+    └── evidencias/
+```
 
 ---
 
