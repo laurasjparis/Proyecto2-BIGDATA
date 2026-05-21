@@ -84,14 +84,3 @@ job.commit()
 ```
 
 ---
-
-# Archivos para el Repo
-
-```bash
-punto4/
-├── README.md
-├── glue_job.py
-└── evidencias/
-```
-
----
